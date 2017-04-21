@@ -6,3 +6,9 @@ var firstName = 'Justin';
 var lastName = 'Newman';
 
 console.log('Full Name: ' + firstName + " " + lastName);
+
+var age = 28;
+if (age > 19)
+    console.log('not a teen');
+else
+    console.log('are a teen');
